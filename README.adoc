@@ -1,0 +1,10 @@
+= Sakila DB in a Container
+
+== Why?
+
+Run the sakila example MySQL database in a container so you can easily interact wiht it without having to have:
+
+. your own local MySQL server
+. your own copy of the sakila data
+. any worries about damaging the data irreversably
+
